@@ -1,1 +1,3 @@
-This is another file created in the new branch (newBranch) 
+This is another file created in the new branch (newBranch).
+
+I am adding some changes to this new branch file ....right now.
